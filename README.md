@@ -8,7 +8,7 @@
   • JavaScript
   • React
   • Redux
-- Back-End Development
+- <b>Back-End Development</b>
   • Node.js
   • Express.js
   • SQL
@@ -35,9 +35,9 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> - Certifications</h2>
-- [CompTIA Security+](2022)
-- [Codecadamy HTML] (2024)
-- [Codecademy CSS] (2024)
+- <b>[CompTIA Security+](2022)</b>
+- <b>[Codecadamy HTML] (2024)</b>
+- <b>[Codecademy CSS] (2024)</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
