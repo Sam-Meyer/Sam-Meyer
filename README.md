@@ -3,7 +3,7 @@
 </div>
 
 <div id="learning">
-  <h2 class="learning"> 🌱 I’m currently learning:</h2>
+  <h2 class="current"> 🌱 I’m currently learning:</h2>
   <h3 class="full-stack">Full-Stack Development</h3>
   <ul>
     <li class="front-end"><b>Front-End Development</b></li>
@@ -20,6 +20,7 @@
       • API Development
       • Python
   </ul>
+  <h2 class="future"><b>🔭 Future Learning Objectives:</b></h2>
   <h3 class="cyber">Cyber Security</h3>
   <ul>
     <li>CompTIA Linux+</li>
@@ -82,7 +83,7 @@
 </div>
 
 <div id="certifications">
-  <h2 class="certifications">Certifications</h2>
+  <h2 class="certifications">Certifications:</h2>
   <ul>
     <li><a href="https://github.com/user-attachments/files/16554039/Samuel.Meyer.CompTIA.Security%2B.ce.certificate.pdf"><b>[CompTIA Security+](2019)</b></a></li>
     <li><a href="https://github.com/user-attachments/files/16554081/HTML.Course.pdf"><b>[Codecadamy HTML] (2024)</b></a></li>
@@ -91,7 +92,7 @@
 </div>
 
 <div id="youtube">
-  <h2 class="youtube">📺 Popular YouTube Videos</h2>
+  <h2 class="youtube">📺 Popular YouTube Videos:</h2>
   <ul>
     <li>[How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)</li>
     <li>[How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)</li>
@@ -102,8 +103,8 @@
 <div id="connect">
   <h2 class="connect"> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sam Meyer | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Sam Meyer | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/channel/UCpm0lJ6dkZYmPHhhWv_3YLA
 [linkedin]: https://www.linkedin.com/in/sam-r-meyer
