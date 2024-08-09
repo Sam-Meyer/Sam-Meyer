@@ -1,5 +1,5 @@
 <div id"intro">
-  <h1 class="intro">Hi, I'm Sam! <br/><a href="https://www.linkedin.com/in/sam-r-meyer/">Cybersecurity Professional</a>, <a href="https://github.com/Sam-Meyer/">Programmer</a></h1>
+  <h1 class="intro">Hi, I'm Sam! <br/><a href="https://www.linkedin.com/in/sam-r-meyer/">Systems Engineer & Cybersecurity Professional</a>, <a href="https://github.com/Sam-Meyer/">Programmer</a></h1>
 </div>
 
 <div id="learning">
@@ -85,9 +85,9 @@
 <div id="certifications">
   <h2 class="certifications">Certifications:</h2>
   <ul>
-    <li><a href="https://github.com/user-attachments/files/16554039/Samuel.Meyer.CompTIA.Security%2B.ce.certificate.pdf"><b>[CompTIA Security+](2019)</b></a></li>
-    <li><a href="https://github.com/user-attachments/files/16554081/HTML.Course.pdf"><b>[Codecadamy HTML] (2024)</b></a></li>
-    <li><a href="https://github.com/user-attachments/files/16554072/CSS.Course.pdf"><b>[Codecademy CSS] (2024)</b></a></li>
+    <li><a href="https://github.com/user-attachments/files/16554039/Samuel.Meyer.CompTIA.Security%2B.ce.certificate.pdf"><b>CompTIA Security+ (2019)</b></a></li>
+    <li><a href="https://github.com/user-attachments/files/16554081/HTML.Course.pdf"><b>Codecadamy HTML Course (2024)</b></a></li>
+    <li><a href="https://github.com/user-attachments/files/16554072/CSS.Course.pdf"><b>Codecademy CSS Course (2024)</b></a></li>
   </ul>
 </div>
 
@@ -105,9 +105,13 @@
 
 [<img align="left" alt="Sam Meyer | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Sam Meyer | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CyberForests | Instagram" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Cyber Forest | Cyber Forests" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gumtree.svg" />][cyberforests]
 
 [youtube]: https://www.youtube.com/channel/UCpm0lJ6dkZYmPHhhWv_3YLA
 [linkedin]: https://www.linkedin.com/in/sam-r-meyer
+[instagram]: https://www.instagram.com/cyberforests
+[cyberforests]: https://cyberforests.com/
 </div>
 
 <!--
