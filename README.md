@@ -60,7 +60,7 @@
       </ul>
     <li><b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b></li>
       <ul>
-        <li><a href="https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964">Image Analysis Middleware<b><i>(Potentially NSFW)</b></i></a></li>
+        <li><a href="https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964">Image Analysis Middleware <b><i>(Potentially NSFW)</b></i></a></li>
       </ul>
     <li><b>PowerShell</b></li>
       <ul>
