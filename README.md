@@ -56,28 +56,28 @@
   <ul>
     <li><b>Data Structures and Algorithms Practice (AlgoExpert)</b></li>
       <ul>  
-        <li>[Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)</li>
+        <li><a href="https://github.com/joshmadakor1/Algorithms-Practice">Praciting DS & Algos in Python</a></li>
       </ul>
     <li><b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b></li>
       <ul>
-        <li>[Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i></li>
+        <li><a href="https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964">Image Analysis Middleware<b><i>(Potentially NSFW)</b></i></a></li>
       </ul>
     <li><b>PowerShell</b></li>
       <ul>
-       <li>[Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)</li>
-       <li>[JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)</li>
-       <li>[Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)</li>
-       <li>[FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)</li>
+       <li><a href="https://github.com/joshmadakor1/Sentinel-Lab">Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion</a></li>
+       <li><a href="https://github.com/joshmadakor1/Jwipe.PowerShell">JWipe (Disk Wiping Utility)</a></li>
+       <li><a href="https://github.com/joshmadakor1/AD_PS">Active Directory Bulk User Creation</a></li>
+       <li><a href="https://github.com/joshmadakor1/PowerShell-Integrity-FIM">FIM (File Integrity Monitor)</a></li>
       </ul>
     <li><b>C# (.NET Desktop Applications)</b></li>
       <ul>
-       <li>[Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)</li>
-       <li>[Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)</li>
-       <li>[Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)</li>
+       <li><a href="https://github.com/joshmadakor1/EncrypterPOC">Ransomware Proof of Concept (Encrypter)</a></li>
+       <li><a href="https://github.com/joshmadakor1/DecrypterPOC">Ransomware Proof of Concept (Decrypter)</a> </li>
+       <li><a href="https://github.com/joshmadakor1/Key-Logger-With-Email">Keylogger with Email Capability</a></li>
       </ul>
     <li><b>Python</b></li>
       <ul>
-        <li>[Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)</li>
+        <li><a href="https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm">Package Delivery Application (Datastructures and Algorithms Demo)</a></li>
       </ul>
   </ul>
 </div>
@@ -94,9 +94,9 @@
 <div id="youtube">
   <h2 class="youtube">📺 Popular YouTube Videos:</h2>
   <ul>
-    <li>[How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)</li>
-    <li>[How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)</li>
-    <li>[Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)</li>
+    <li><a href="https://www.youtube.com/watch?v=a83ASGn_V_s">How to get into Cybersecurity Starting From Zero</a></li>
+    <li><a href="https://www.youtube.com/watch?v=N-L9hklSlNk">How to Create a KeyLogger (C#)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=OfvdQeh79s0">Ransomware Demonstration (C#)</a></li>
   </ul>
 </div>
 
