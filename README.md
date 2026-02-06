@@ -4,7 +4,7 @@
 
 <div id="learning">
   <h2 class="current"> 🌱 I’m currently learning:</h2>
-  <h3 class="Python"</h3>
+  <h3 class="programming">Python</h3>
   </ul>
   <h2 class="future"><b>🔭 Future Learning Objectives:</b></h2>
    <h3 class="full-stack">Full-Stack Development</h3>
