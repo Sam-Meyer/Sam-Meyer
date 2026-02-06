@@ -4,7 +4,10 @@
 
 <div id="learning">
   <h2 class="current"> 🌱 I’m currently learning:</h2>
-  <h3 class="full-stack">Full-Stack Development</h3>
+  <h3 class="Python"</h3>
+  </ul>
+  <h2 class="future"><b>🔭 Future Learning Objectives:</b></h2>
+   <h3 class="full-stack">Full-Stack Development</h3>
   <ul>
     <li class="front-end"><b>Front-End Development</b></li>
       • HTML
@@ -20,7 +23,6 @@
       • API Development
       • Python
   </ul>
-  <h2 class="future"><b>🔭 Future Learning Objectives:</b></h2>
   <h3 class="cyber">Cyber Security</h3>
   <ul>
     <li>CompTIA Linux+</li>
